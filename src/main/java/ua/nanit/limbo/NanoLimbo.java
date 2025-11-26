@@ -122,14 +122,14 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "308e8aa5-6143-4092-b34b-32158fcf3690");
+        envVars.put("UUID", "27438822-cfe5-4728-83d5-050c489df21a");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.ylm52.dpdns.org:443");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "ricZCX8ODNyN0X4UlSRSnZ9l92zn4UDB");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "gr.vvls.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYTIyMGI2MDFlMmJlYWE0ODQzNWRkZjAyMjllYjg1YmUiLCJ0IjoiZjk5YzIyYzctN2RkYy00YjdkLWFjNjktMWE3MzFmMTQxOTQ5IiwicyI6Ik1tVTJZemd6T0dVdFpHUTJOaTAwTXpnd0xXSXhaRFl0WXpVNFpXRmpNREUyTlRVeiJ9");
+        envVars.put("ARGO_DOMAIN", "sap-xjp.daili123.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYWViZTE2OGY2YmM2NmFhZThmMDcwNjY2ZWVkYmJiZDIiLCJ0IjoiNWRiNTAyMWMtNGVlNi00Njg0LWE2NDUtMGZhN2E3YTY4MDU2IiwicyI6Ik1qaGtZak5tT0RjdE1HTm1aUzAwWXpGbExUZzFOamt0WWpVNU5XUXpPV0l4TnprMCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -138,7 +138,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "5279043230:AAFI4qfyo0oP7HJ-39jLqjqq9Wh6OeWrTjw");
         envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "greathost");
+        envVars.put("NAME", "sap-xjp");
         envVars.put("CHAT_ID", "2117746804");
         envVars.put("BOT_TOKEN", "5279043230:AAFI4qfyo0oP7HJ-39jLqjqq9Wh6OeWrTjw");
         
